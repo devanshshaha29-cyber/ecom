@@ -1,0 +1,15 @@
+.card{
+    float: left;
+    margin: 10px;
+}
+
+.filter{
+    display: flex;
+    justify-content: center;
+}
+
+.b1{
+    margin: 20px;
+    width: 200px;
+    height: 60px;
+}
